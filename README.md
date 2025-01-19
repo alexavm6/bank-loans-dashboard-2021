@@ -12,6 +12,14 @@ The bank wants to create a 2021 loans dashboard to understand the performance of
 
 You can see the dataset here [Bank Loans Dataset](./dataset.csv)
 
+### SQL Analysis
+
+Explore the following resources:
+
+- [SQL Analysis Script:](./analysis.sql) The SQL script used for data analysis.
+- [Query Results:](./analysis.docx) A document containing the results of the executed queries.
+- [Database Backup (.bacpac):](./bankLoans.bacpac) A backup file of the database, including its schema and data.
+
 ### Project
 
 You can see the final project here [Project](./dashboard.xlsx)
